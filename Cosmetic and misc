@@ -1,0 +1,13 @@
+.mines-module-scss-module__gUfZ2G__minesGameItem {
+    background: var(--mines-tile-color);
+    will-change: background,filter;
+    background: linear-gradient(rgb(0 255 136 / 0%), rgb(0 255 136 / 20%)), var(--mines-tile-color);
+    border: 1px solid #00ff88;
+    box-shadow: 0 0 6px #00ff88, 0 0 12px #00ff88;
+    border-radius: 8px;
+    padding: 0;
+    transition: filter .2s,background .2s;
+    display: block;
+    position: relative;
+    transform: translateZ(0)
+}

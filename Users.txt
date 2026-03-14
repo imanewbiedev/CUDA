@@ -1,0 +1,7 @@
+{
+  "TEST-KEY1-DEMO-0001": {
+    "user": "{\"distinct_id\":\"86e26e15-9e82-4f97-8585-cab9a735412c\",\"$device_id\":\"8af25087-cc13-4634-ae65-4cba9b78cff7\",\"$initial_referrer\":\"https://bloxflip.com/\",\"$initial_referring_domain\":\"bloxflip.com\",\"__mps\":{},\"__mpso\":{},\"__mpus\":{},\"__mpa\":{},\"__mpu\":{},\"__mpr\":[],\"__mpap\":[],\"$user_id\":\"86e26e15-9e82-4f97-8585-cab9a735412c\"}",
+    "expiresAt": 4150903935333,
+    "activatedAt": 1773477249334
+  }
+}
